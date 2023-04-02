@@ -1,0 +1,12 @@
+{
+  "name": "pinclean",
+  "version": "1.0.0",
+  "description": "Cleanup script for old pinata pins",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@pinata/sdk": "^1.1.26",
+    "require-node": "^2.0.8"
+  }
+}
